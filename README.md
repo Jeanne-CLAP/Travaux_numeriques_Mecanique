@@ -6,7 +6,7 @@ L'utilisateur entre les dimensions d'une poutre ainsi que la force appliquée su
 * **Bibliothèques requises** : *numpy*
 
 ## 2. Tenseur des contraintes et tricercle de Mohr (MMC des solides)
-...
+L'utilisateur entre le tenseur des contraintes de son choix. Le programme calcule les contraintes principales et trace le tricercle de Mohr.
 * **Bibliothèques requises** : *numpy*, *matplotlib*, *tkinter* (généralement inclus par défaut avec Python 3)
 
 ## 3. Simulateur d'un système Masse-Ressort amorti : étude des régimes
