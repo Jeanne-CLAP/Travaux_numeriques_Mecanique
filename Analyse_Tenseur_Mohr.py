@@ -60,7 +60,7 @@ ax.set_aspect('equal') # Force un cercle rond
 ax.axhline(0, color='black', lw=1) # Axe des abscisses
 ax.grid(True, linestyle=':') # Affichage de la grille
 
-# Légende du graphique 
+# Légende du graphique
 plt.title("Tricercle de Mohr")
 plt.xlabel("Contrainte normale $\sigma$ (MPa)")
 plt.ylabel(r"Contrainte tangentielle $\tau$ (MPa)")
