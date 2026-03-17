@@ -3,7 +3,7 @@ Répertoire de scripts Python dédié à la simulation et au calcul numérique e
 
 ## 1. Résistance des matériaux : optimisation de poutre
 L'utilisateur entre les dimensions d'une poutre ainsi que la force appliquée sur cette dernière. Le programme calcule la contrainte maximale, le déplacement des 3 matériaux choisis (Acier, Silice, Aluminium) et conclut si le matériau résiste.
-*Bibliothèques requises* : numpy
+**Bibliothèques requises** : numpy
 
 ## 2. Tenseur des contraintes et tricercle de Mohr (MMC des solides)
 ...
