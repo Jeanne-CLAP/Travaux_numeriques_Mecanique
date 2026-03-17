@@ -13,6 +13,7 @@ def saisie(nom):
 
 root = tk.Tk()
 root.withdraw() # Réglage de l'affichage du pop-up (cacher fenêtre inutile)
+root.attributes("-topmost", True) # Force les fenêtres Tkinter au premier plan
 
 
 # Etape 1 : Saisie des données
