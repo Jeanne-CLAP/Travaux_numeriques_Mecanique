@@ -10,5 +10,5 @@ L'utilisateur entre le tenseur des contraintes de son choix. Le programme calcul
 * **Bibliothèques requises** : *numpy*, *matplotlib*, *tkinter* (généralement inclus par défaut avec Python 3)
 
 ## 3. Simulateur d'un système Masse-Ressort amorti : étude des régimes
-L'utilisateur entre le tenseur des contraintes de son choix. Le programme calcule les contraintes principales et trace le tricercle de Mohr.
+Simulateur d'un oscillateur harmonique amorti d'un système masse-ressort. Le programme résout l'équation différentielle du 2nd ordre, identifie le régime en fonction de l'amortissement et trace les 4 régimes sur le même graphique.
 * **Bibliothèques requises** : *numpy*, *matplotlib*, *scipy*
